@@ -1,1 +1,1 @@
-# SOMI
+# BrainTease-Trivia-Game
